@@ -1,0 +1,20 @@
+.bg-1 {
+    background-color: #505554; /* Green */
+    color: #ffffff;
+  }
+.bg-2 {
+    background-color: #2c0e5c; /* Green */
+    color: #ffffff;
+  }
+.bg-3 {
+    background-color: #ad2a19; /* Green */
+    color: #ffffff;
+  }
+img{
+    max-width: 500px;
+    max-height: 500px;
+}
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+}
